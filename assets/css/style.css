@@ -250,9 +250,16 @@ input[type=submit] {
     line-height: 90px;
     text-align: center;
     text-decoration: none;
-   
-    }
-    .container {
+   }
+
+    .main-section {
+    width: 768px;
+    max-width: 100%
+
+
+   } 
+
+   .container {
     width:100%;
     padding: 20px;
     }
